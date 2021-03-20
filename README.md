@@ -11,7 +11,6 @@ Medium: https://antoniohila.medium.com/
 <br/>
 <br/>
 <br/>
-<br/>
 ![alt text](https://github.com/Ahila700/Ahila700/blob/main/Resume.jpg)
 
 <!---
