@@ -3,10 +3,10 @@
 - 👀 I’m interested in: Data Analysis
 - 🌱 I’m currently learning: SQL/Python/Tableau
 - 💞️ I’m looking to collaborate on: Any Interesting Data Science Projects
-- 📫 How to reach me:
+- 📫 How to reach me:<br/>
 
-Github: https://github.com/Ahila700
-LinkedIn: https://www.linkedin.com/in/antonio-hila/
+Github: https://github.com/Ahila700<br/>
+LinkedIn: https://www.linkedin.com/in/antonio-hila/<br/>
 Medium: https://antoniohila.medium.com/
 
 <!---
