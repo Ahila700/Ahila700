@@ -8,6 +8,7 @@
 Github: https://github.com/Ahila700<br/>
 LinkedIn: https://www.linkedin.com/in/antonio-hila/<br/>
 Medium: https://antoniohila.medium.com/<br/>
+<br/>
 Resume: https://github.com/Ahila700/Ahila700/blob/main/Antonio_Hila_Resume.pdf
 
 <!---
